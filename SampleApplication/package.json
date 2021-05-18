@@ -17,7 +17,7 @@
     "react": "16.13.1",
     "react-native": "0.63.0",
     "react-native-blur": "^3.2.2",
-    "react-native-fast-image": "^8.1.5",
+    "react-native-fast-image": "^8.3.0",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-safe-area-context": "^3.0.7",
     "react-native-safe-area-view": "^1.1.1"
